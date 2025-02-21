@@ -63,3 +63,12 @@ List and briefly explain the phases of the Software Development Life Cycle.**
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+**Vague Prompt:**  
+*"Tell me about technology."*  
+
+**Improved Prompt:**  
+*"How has artificial intelligence impacted healthcare in the last five years?"*  
+
+**Why It's Better:**  
+The improved prompt is specific (AI in healthcare), time-bound (last five years), and focused, leading to a more relevant and detailed response.
